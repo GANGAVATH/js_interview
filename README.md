@@ -1,4 +1,4 @@
-# js_interview
+# how to reverse a string 
 function reverse(str){
   return str.split('').reverse().join('')
 }
